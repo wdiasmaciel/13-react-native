@@ -3,7 +3,7 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function Perfil() {
   return (
     <View style={styles.container}>
-      <Text style={styles.titulo}>Perfil</Text>
+      <Text style={styles.titulo}>Meu Perfil</Text>
       <View style={styles.separador} />
       <Text>Segunda aba do aplicativo.</Text>
     </View>

@@ -3,7 +3,7 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function Home() {
   return (
     <View style={styles.container}>
-      <Text style={styles.titulo}>Configuração</Text>
+      <Text style={styles.titulo}>Minha Configuração</Text>
       <View style={styles.separador} />
       <Text>Terceira aba do aplicativo.</Text>
     </View>
