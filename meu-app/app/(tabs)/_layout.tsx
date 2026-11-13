@@ -9,7 +9,7 @@ export default function LayoutAbas() {
         options={{
           title: 'Home',
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="home-outline" size={size} color={color} />
+            <Ionicons name="home-outline" size={size * 0.75} color={color} />
           ),
         }}
       />
@@ -18,7 +18,7 @@ export default function LayoutAbas() {
         options={{
           title: 'Perfil',
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="person-outline" size={size} color={color} />
+            <Ionicons name="person-outline" size={size * 0.75} color={color} />
           ),
         }}
       />
@@ -27,7 +27,7 @@ export default function LayoutAbas() {
         options={{
           title: 'Configuração',
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="settings-outline" size={size} color={color} />
+            <Ionicons name="settings-outline" size={size * 0.75} color={color} />
           ),
         }}
       />
