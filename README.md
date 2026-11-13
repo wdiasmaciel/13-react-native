@@ -1,3 +1,3 @@
 # 13-react-native
 
-(Telas do exemplo)[telas.png]
+!(Telas do exemplo)[telas.png]
