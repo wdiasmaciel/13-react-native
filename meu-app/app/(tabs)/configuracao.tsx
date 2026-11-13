@@ -1,6 +1,6 @@
 import { View, Text, StyleSheet } from 'react-native';
 
-export default function Home() {
+export default function Configuracao() {
   return (
     <View style={styles.container}>
       <Text style={styles.titulo}>Minha Configuração</Text>
